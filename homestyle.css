@@ -1,6 +1,6 @@
 body {
 	background-image: url(https://krot.info/uploads/posts/2021-01/1611769397_30-p-zelenii-voennii-fon-34.jpg);
-	max-width: 960px;
+	max-width: 100%;
 	margin: 0 auto;
 }
 div {
@@ -11,20 +11,55 @@ h2 {
 	text-align: center;
 }
 .header {
+	max-width: 100%;
+	border: 0px;
 	border-radius: 10px;
-	margin-top: 2%;
 	background-image: url(https://hqtexture.com/uploads/posts/2012-10/1349535095-790849-military-backgrounds-1.jpg);
 	min-height: 200px;
 	line-height: 100px;
 	text-align: center;
 	margin-bottom: 3%;
+	font-size: xx-large;
 
 }
 .sidebar {
-	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqELJn-Ca4TFIexcUJFqX2m5tt7JG4lNwuuHD2GlPLZo3crI36tNMOHvlAZ_0KukBcyN0&usqp=CAU);
+	background-image: url(https://demiart.ru/tutorials/2/military-wallpaper/689738775165.jpg) ;
+	background-position: 50% 50%;
 	float: left;
-	max-width: 200px;
-	max-width: 150px;
+	min-width: 300px;
+	min-height: 300px;
 	margin-right: 2%;
-	
+	text-align: center;
+	line-height: 50px;
+	border: 0px;
+	font-size: x-large;
+	margin-left: 2%;
+
+}
+.sidebar1 {
+	float: center;
+	text-align: justify;
+	min-width: 60%;
+	max-width: 80%;
+	border: 0px;
+	font-size: x-large;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.sidebar2 {
+	margin-top: 5%;
+	border: 0px;
+	text-align: center;
+	font-size: xx-large;
+	min-width: 300px;
+	min-height: 300px;
+
+}
+.ak-47 {
+	background-image: url(https://popadiv10.ru/image/catalog/product/1026/signalnyy-avtomat-ak-ak-47-kalashnikov-8.jpg);
+	background-position: 50% 50%;
+	min-width: 300px;
+	min-height: 300px;
+	line-height: 50px;
+
 }
