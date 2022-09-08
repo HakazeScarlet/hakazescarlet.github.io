@@ -20,7 +20,6 @@ h2 {
 	text-align: center;
 	margin-bottom: 3%;
 	font-size: xx-large;
-
 }
 .sidebar {
 	background-image: url(https://demiart.ru/tutorials/2/military-wallpaper/689738775165.jpg) ;
@@ -34,7 +33,6 @@ h2 {
 	border: 0px;
 	font-size: x-large;
 	margin-left: 2%;
-
 }
 .sidebar1 {
 	float: center;
@@ -53,11 +51,13 @@ h2 {
 	font-size: xx-large;
 	min-width: 300px;
 	min-height: 300px;
-
 }
 .ak-47 {
+	font-display: ;
+	font-size: xx-large;
 	background-image: url(https://popadiv10.ru/image/catalog/product/1026/signalnyy-avtomat-ak-ak-47-kalashnikov-8.jpg);
-	background-position: 50% 50%;
+	background-position: 55% 50%;
+	background-size: 100%;
 	min-width: 300px;
 	min-height: 300px;
 	line-height: 50px;
