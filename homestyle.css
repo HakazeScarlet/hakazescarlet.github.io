@@ -92,6 +92,7 @@ body {
 	background-size: 135%;
 	background-position: 50% 50%;
 	margin-bottom: 2%;
+	line-height: 50px;
 }
 .sidebar3 {
 	font-size: x-large;
@@ -123,7 +124,6 @@ body {
 	height: 125px;
 	background-size: 100%;
 	background-position: 50% 70%;
-	line-height: 100px;
 	margin-bottom: 2%;
 }
 .bows {
