@@ -3,16 +3,8 @@ body {
 	max-width: 100%;
 	margin: 0 auto;
 }
-div {
-	border: 1px solid black;
-	padding: 5 px 15 px;
-}
-h2 {
-	text-align: center;
-}
 .header {
 	max-width: 100%;
-	border: 0px;
 	border-radius: 10px;
 	background-image: url(https://hqtexture.com/uploads/posts/2012-10/1349535095-790849-military-backgrounds-1.jpg);
 	min-height: 200px;
@@ -21,45 +13,105 @@ h2 {
 	margin-bottom: 3%;
 	font-size: xx-large;
 }
+@media (min-width: 500px) {
+.box1 {
+	display: flex;
+	align-items: flex-start;
+	padding: 2%;
+	margin-right: 15%;
+}
 .sidebar {
 	background-image: url(https://demiart.ru/tutorials/2/military-wallpaper/689738775165.jpg) ;
+	width: 200px;
+	height: 200px;
 	background-position: 50% 50%;
-	float: left;
-	min-width: 300px;
-	min-height: 300px;
-	margin-right: 2%;
+	font-size: 22px;
 	text-align: center;
-	line-height: 50px;
-	border: 0px;
-	font-size: x-large;
-	margin-left: 2%;
+	padding: 10px;
+	margin: 2%;
 }
 .sidebar1 {
-	float: center;
-	text-align: justify;
-	min-width: 60%;
-	max-width: 80%;
-	border: 0px;
 	font-size: x-large;
-	margin-left: 20%;
-	margin-right: 20%;
+	text-align: justify;
 }
 .sidebar2 {
-	margin-top: 5%;
-	border: 0px;
-	text-align: center;
-	font-size: xx-large;
-	min-width: 300px;
-	min-height: 300px;
+	text-align: left;
+	margin-right: 17%;
+	margin-left: 4%;
+	text-align: justify;
+	font-size: x-large;
 }
-.ak-47 {
-	font-display: ;
-	font-size: xx-large;
-	background-image: url(https://popadiv10.ru/image/catalog/product/1026/signalnyy-avtomat-ak-ak-47-kalashnikov-8.jpg);
-	background-position: 55% 50%;
+.box2 {
+	display: flex;
+	justify-content: space-between;
+	align-items: stretch;
+	flex-wrap: wrap;
+	margin-left: 4%;
+	margin-right: 15%;
+	flex-direction: row;
+	padding: 2%;
+	text-align: center;
+	line-height: 100px;
+	font-size: x-large;
+}
+.prehistoric {
+	background-image: url(https://артемида-ук.рф/wp-content/uploads/kope-s-kamennym-nakonechnikom.jpg);
+	width: 200px;
+	height: 125px;
 	background-size: 100%;
-	min-width: 300px;
-	min-height: 300px;
 	line-height: 50px;
-
+	margin-bottom: 2%;
+}
+.ancient {
+	background-image: url(https://cdn.fishki.net/upload/post/201603/28/1899143/tn/pompej.jpg);
+	width: 200px;
+	height: 125px;
+	background-size: 90%;
+	background-position: 50% 35%;
+	margin-bottom: 2%;
+}
+.post-classical {
+	background-image: url(https://img.pravda.ru/image/preview/article/4/0/9/1412409_five.jpeg);
+	width: 200px;
+	height: 125px;
+	background-size: 100%;
+	margin-bottom: 2%;
+}
+.modern {
+	background-image: url(https://images.techinsider.ru/upload/img_cache/3cf/3cf05a71e0b2c6afdd79db943a589440_cropped_500x252.webp);
+	width: 200px;
+	height: 125px;
+	background-size: 130%;
+	background-position: 75%;
+	margin-bottom: 2%;
+}
+.industrial {
+	background-image: url(https://modernfirearms.net/userfiles/images/machine/mg07/pkm_1.jpg);
+	width: 200px;
+	height: 125px;
+	background-size: 135%;
+	background-position: 50% 50%;
+	margin-bottom: 2%;
+}
+.footer {
+	border: 10px;
+	margin: 1%;
+	text-align: center;
+}
+.sidebar3 {
+	font-size: x-large;
+	text-align: center;
+}
+.box3 {
+	display: flex;
+	justify-content: space-between;
+	align-items: stretch;
+	flex-wrap: wrap;
+	margin-left: 4%;
+	margin-right: 15%;
+	flex-direction: row;
+	padding: 2%;
+	text-align: center;
+	line-height: 100px;
+	font-size: x-large;
 }
