@@ -159,7 +159,8 @@ a:active {
 }
 .file {
 	font-size: x-large;
-	text-align: center;
+	text-align: left;
+	margin-left: 10%;
 
 }
 .footer {
