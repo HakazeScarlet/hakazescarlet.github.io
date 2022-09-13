@@ -3,6 +3,23 @@ body {
 	max-width: 100%;
 	margin: 0 auto;
 }
+a {
+	color: #000000;
+	text-decoration: none;
+}
+a:link {
+	background-color: #928E51;
+}
+a:visited {
+
+}
+a:hover {
+	text-decoration: underline;
+	cursor: grab;
+}
+a:active {
+	cursor: grabbing;
+}
 .header {
 	max-width: 100%;
 	border-radius: 10px;
@@ -139,6 +156,11 @@ body {
 	font-size: x-large;
 	margin-bottom: 3%;
 	margin-top: 3%;
+}
+.file {
+	font-size: x-large;
+	text-align: center;
+
 }
 .footer {
 	background-image: url(https://hqtexture.com/uploads/posts/2012-10/1349535095-790849-military-backgrounds-1.jpg);
