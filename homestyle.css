@@ -41,7 +41,7 @@ a:active {
     left: 0;
 }
 
-@media (min-width: 500px) {
+@media (min-width: 300px) {
 
 .menu-and-intro {
     display: flex;
@@ -65,6 +65,7 @@ a:active {
 .intro {
     font-size: x-large;
     text-align: justify;
+    min-width: 70%;
 }
 
 .weapon-history {
