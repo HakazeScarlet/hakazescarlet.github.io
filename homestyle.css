@@ -1,5 +1,5 @@
 body {
-	background-image: url(https://krot.info/uploads/posts/2021-01/1611769397_30-p-zelenii-voennii-fon-34.jpg);
+	background-image: url(images/background.jpg);
 	max-width: 100%;
 	margin: 0 auto;
 }
@@ -23,7 +23,7 @@ a:active {
 .header {
 	max-width: 100%;
 	border-radius: 10px;
-	background-image: url(https://hqtexture.com/uploads/posts/2012-10/1349535095-790849-military-backgrounds-1.jpg);
+	background-image: url(images/header.jpg);
 	min-height: 200px;
 	line-height: 100px;
 	text-align: center;
@@ -38,7 +38,7 @@ a:active {
 	margin-right: 15%;
 }
 .sidebar {
-	background-image: url(https://demiart.ru/tutorials/2/military-wallpaper/689738775165.jpg) ;
+	background-image: url(images/menu.jpg) ;
 	width: 200px;
 	height: 200px;
 	background-position: 50% 50%;
@@ -72,7 +72,7 @@ a:active {
 	font-size: x-large;
 }
 .prehistoric {
-	background-image: url(https://артемида-ук.рф/wp-content/uploads/kope-s-kamennym-nakonechnikom.jpg);
+	background-image: url(images/prehistoric.jpg);
 	width: 200px;
 	height: 125px;
 	background-size: 100%;
@@ -80,7 +80,7 @@ a:active {
 	margin-bottom: 2%;
 }
 .ancient {
-	background-image: url(https://cdn.fishki.net/upload/post/201603/28/1899143/tn/pompej.jpg);
+	background-image: url(images/ancient.jpg);
 	width: 200px;
 	height: 125px;
 	background-size: 90%;
@@ -88,14 +88,14 @@ a:active {
 	margin-bottom: 2%;
 }
 .post-classical {
-	background-image: url(https://img.pravda.ru/image/preview/article/4/0/9/1412409_five.jpeg);
+	background-image: url(images/post-classical.jpeg);
 	width: 200px;
 	height: 125px;
 	background-size: 100%;
 	margin-bottom: 2%;
 }
 .modern {
-	background-image: url(https://images.techinsider.ru/upload/img_cache/3cf/3cf05a71e0b2c6afdd79db943a589440_cropped_500x252.webp);
+	background-image: url(images/modern.jpg);
 	width: 200px;
 	height: 125px;
 	background-size: 130%;
@@ -103,7 +103,7 @@ a:active {
 	margin-bottom: 2%;
 }
 .industrial {
-	background-image: url(https://modernfirearms.net/userfiles/images/machine/mg07/pkm_1.jpg);
+	background-image: url(images/industrial.jpg);
 	width: 200px;
 	height: 125px;
 	background-size: 135%;
@@ -128,15 +128,15 @@ a:active {
 	line-height: 50px;
 	font-size: x-large;
 }
-.ak-47 {
-	background-image: url(https://militaryarms.ru/wp-content/uploads/2015/02/4-7.jpg);
+.m-16 {
+	background-image: url(images/m16.jpg);
 	width: 200px;
 	height: 125px;
 	background-size: 100%;
 	margin-bottom: 2%;
 }
 .katana {
-	background-image: url(https://kartinkin.net/uploads/posts/2022-03/1648240941_1-kartinkin-net-p-kholodnoe-oruzhie-kartinki-1.jpg);
+	background-image: url(images/katana.jpg);
 	width: 200px;
 	height: 125px;
 	background-size: 100%;
@@ -144,7 +144,7 @@ a:active {
 	margin-bottom: 2%;
 }
 .bows {
-	background-image: url(https://www.rctest.ru/upload/iblock/078/078268ab097013b9b9fdd9bc4002796a.jpg);
+	background-image: url(images/bows.jpg);
 	width: 200px;
 	height: 125px;
 	background-position: 70%;
@@ -164,7 +164,7 @@ a:active {
 
 }
 .footer {
-	background-image: url(https://hqtexture.com/uploads/posts/2012-10/1349535095-790849-military-backgrounds-1.jpg);
+	background-image: url(images/header.jpg);
 	text-align: center;
 	max-width: 100%;
 	border-radius: 10px;
