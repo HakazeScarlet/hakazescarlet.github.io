@@ -1,174 +1,174 @@
 body {
-	background-image: url(images/background.jpg);
-	max-width: 100%;
-	margin: 0 auto;
+    background-image: url(images/background.jpg);
+    max-width: 100%;
+    margin: 0 auto;
 }
 a {
-	color: #000000;
-	text-decoration: none;
+    color: #000000;
+    text-decoration: none;
 }
 a:link {
-	background-color: #928E51;
+    background-color: #928E51;
 }
 a:visited {
 
 }
 a:hover {
-	text-decoration: underline;
-	cursor: grab;
+    text-decoration: underline;
+    cursor: grab;
 }
 a:active {
-	cursor: grabbing;
+    cursor: grabbing;
 }
 .header {
-	max-width: 100%;
-	border-radius: 10px;
-	background-image: url(images/header.jpg);
-	min-height: 200px;
-	line-height: 100px;
-	text-align: center;
-	margin-bottom: 3%;
-	font-size: xx-large;
+    max-width: 100%;
+    border-radius: 10px;
+    background-image: url(images/header.jpg);
+    min-height: 200px;
+    line-height: 100px;
+    text-align: center;
+    margin-bottom: 3%;
+    font-size: xx-large;
 }
 @media (min-width: 500px) {
-.box1 {
-	display: flex;
-	align-items: flex-start;
-	padding: 2%;
-	margin-right: 15%;
+.menu-and-intro {
+    display: flex;
+    align-items: flex-start;
+    padding: 2%;
+    margin-right: 15%;
 }
-.sidebar {
-	background-image: url(images/menu.jpg) ;
-	width: 200px;
-	height: 200px;
-	background-position: 50% 50%;
-	font-size: 22px;
-	text-align: center;
-	padding: 10px;
-	margin: 2%;
+.menu {
+    background-image: url(images/menu.jpg) ;
+    min-width: 200px;
+    min-height: 200px;
+    background-position: 50% 50%;
+    font-size: large;
+    text-align: center;
+    padding: 1%;
+    margin: 2%;
 }
-.sidebar1 {
-	font-size: x-large;
-	text-align: justify;
+.intro {
+    font-size: x-large;
+    text-align: justify;
 }
-.sidebar2 {
-	text-align: left;
-	margin-right: 17%;
-	margin-left: 4%;
-	text-align: justify;
-	font-size: x-large;
+.weapon-history {
+    text-align: left;
+    margin-right: 17%;
+    margin-left: 4%;
+    text-align: justify;
+    font-size: x-large;
 }
-.box2 {
-	display: flex;
-	justify-content: space-between;
-	align-items: stretch;
-	flex-wrap: wrap;
-	margin-left: 4%;
-	margin-right: 15%;
-	flex-direction: row;
-	padding: 2%;
-	text-align: center;
-	line-height: 100px;
-	font-size: x-large;
+.history-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    flex-wrap: wrap;
+    margin-left: 4%;
+    margin-right: 15%;
+    flex-direction: row;
+    padding: 2%;
+    text-align: center;
+    line-height: 100px;
+    font-size: x-large;
 }
 .prehistoric {
-	background-image: url(images/prehistoric.jpg);
-	width: 200px;
-	height: 125px;
-	background-size: 100%;
-	line-height: 50px;
-	margin-bottom: 2%;
+    background-image: url(images/prehistoric.jpg);
+    width: 200px;
+    height: 125px;
+    background-size: 100%;
+    line-height: 50px;
+    margin-bottom: 2%;
 }
 .ancient {
-	background-image: url(images/ancient.jpg);
-	width: 200px;
-	height: 125px;
-	background-size: 90%;
-	background-position: 50% 35%;
-	margin-bottom: 2%;
+    background-image: url(images/ancient.jpg);
+    width: 200px;
+    height: 125px;
+    background-size: 90%;
+    background-position: 50% 35%;
+    margin-bottom: 2%;
 }
 .post-classical {
-	background-image: url(images/post-classical.jpeg);
-	width: 200px;
-	height: 125px;
-	background-size: 100%;
-	margin-bottom: 2%;
+    background-image: url(images/post-classical.jpeg);
+    width: 200px;
+    height: 125px;
+    background-size: 100%;
+    margin-bottom: 2%;
 }
 .modern {
-	background-image: url(images/modern.jpg);
-	width: 200px;
-	height: 125px;
-	background-size: 130%;
-	background-position: 75%;
-	margin-bottom: 2%;
+    background-image: url(images/modern.jpg);
+    width: 200px;
+    height: 125px;
+    background-size: 130%;
+    background-position: 75%;
+    margin-bottom: 2%;
 }
 .industrial {
-	background-image: url(images/industrial.jpg);
-	width: 200px;
-	height: 125px;
-	background-size: 135%;
-	background-position: 50% 50%;
-	margin-bottom: 2%;
-	line-height: 50px;
+    background-image: url(images/industrial.jpg);
+    width: 200px;
+    height: 125px;
+    background-size: 135%;
+    background-position: 50% 50%;
+    margin-bottom: 2%;
+    line-height: 50px;
 }
-.sidebar3 {
-	font-size: x-large;
-	text-align: center;
+.weapon-classification {
+    font-size: x-large;
+    text-align: center;
 }
-.box3 {
-	display: flex;
-	justify-content: space-between;
-	align-items: stretch;
-	flex-wrap: wrap;
-	margin-left: 4%;
-	margin-right: 15%;
-	flex-direction: row;
-	padding: 2%;
-	text-align: center;
-	line-height: 50px;
-	font-size: x-large;
+.weapon-classification-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    flex-wrap: wrap;
+    margin-left: 4%;
+    margin-right: 15%;
+    flex-direction: row;
+    padding: 2%;
+    text-align: center;
+    line-height: 50px;
+    font-size: x-large;
 }
 .m-16 {
-	background-image: url(images/m16.jpg);
-	width: 200px;
-	height: 125px;
-	background-size: 100%;
-	margin-bottom: 2%;
+    background-image: url(images/m16.jpg);
+    width: 200px;
+    height: 125px;
+    background-size: 100%;
+    margin-bottom: 2%;
 }
 .katana {
-	background-image: url(images/katana.jpg);
-	width: 200px;
-	height: 125px;
-	background-size: 100%;
-	background-position: 50% 70%;
-	margin-bottom: 2%;
+    background-image: url(images/katana.jpg);
+    width: 200px;
+    height: 125px;
+    background-size: 100%;
+    background-position: 50% 70%;
+    margin-bottom: 2%;
 }
 .bows {
-	background-image: url(images/bows.jpg);
-	width: 200px;
-	height: 125px;
-	background-position: 70%;
-	background-size: 125%;
-	margin-bottom: 2%;
+    background-image: url(images/bows.jpg);
+    width: 200px;
+    height: 125px;
+    background-position: 70%;
+    background-size: 125%;
+    margin-bottom: 2%;
 }
 .to-up {
-	margin-left: 4%;
-	font-size: x-large;
-	margin-bottom: 3%;
-	margin-top: 3%;
+    margin-left: 4%;
+    font-size: x-large;
+    margin-bottom: 3%;
+    margin-top: 3%;
 }
 .file {
-	font-size: x-large;
-	text-align: left;
-	margin-left: 10%;
+    font-size: x-large;
+    text-align: left;
+    margin-left: 10%;
 
 }
 .footer {
-	background-image: url(images/header.jpg);
-	text-align: center;
-	max-width: 100%;
-	border-radius: 10px;
-	min-height: 100px;
-	line-height: 100px;
-	background-position: 50% 85%;
+    background-image: url(images/header.jpg);
+    text-align: center;
+    max-width: 100%;
+    border-radius: 10px;
+    min-height: 100px;
+    line-height: 100px;
+    background-position: 50% 85%;
 }
