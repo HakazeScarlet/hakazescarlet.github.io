@@ -53,8 +53,8 @@ a:active {
 
 .menu {
     background-image: url(images/menu.jpg) ;
-    min-width: 200px;
-    min-height: 200px;
+    min-width: 25%;
+    min-height: 20%;
     background-position: 50% 50%;
     font-size: large;
     text-align: center;
