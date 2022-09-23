@@ -46,7 +46,7 @@ a:active {
 .menu-and-intro {
     display: flex;
     align-items: flex-start;
-    padding: 2%;
+    padding: 4%;
     margin-right: 15%;
     position: relative;
 }
@@ -88,6 +88,10 @@ a:active {
     text-align: center;
     line-height: 100px;
     font-size: x-large;
+}
+
+.info-page {
+
 }
 
 .prehistoric {
