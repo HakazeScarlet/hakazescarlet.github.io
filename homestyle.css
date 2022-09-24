@@ -3,6 +3,7 @@ body {
     max-width: 100%;
     margin: 0 auto;
     position: relative;
+    background-position: 50% 50%;
 }
 
 a {
@@ -89,6 +90,14 @@ a:active {
 }
 
 .info-page {
+    font-size: x-large;
+    text-align: justify;
+    min-width: 70%;
+    margin-right: 17%;
+    margin-left: 4%;
+}
+
+.list {
 
 }
 
@@ -204,6 +213,4 @@ a:active {
     min-height: 100px;
     line-height: 100px;
     background-position: 50% 85%;
-    position: relative;
-    bottom: 0;
 }
