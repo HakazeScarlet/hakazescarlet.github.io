@@ -68,8 +68,8 @@ a:active {
 }
 
 .image img{
-    max-width: 50%;
-    max-height: 50%;
+    max-width: 70%;
+    max-height: 70%;
     margin-left: 20%;
     margin-right: 20%;
 }
@@ -209,7 +209,8 @@ a:active {
 .file {
     font-size: x-large;
     text-align: left;
-    margin-left: 10%;
+    margin-left: 4%;
+    margin-right: 17%;
 }
 
 .footer {
