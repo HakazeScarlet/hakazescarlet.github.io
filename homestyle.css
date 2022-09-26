@@ -67,6 +67,13 @@ a:active {
     min-width: 70%;
 }
 
+.image img{
+    max-width: 50%;
+    max-height: 50%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
 .weapon-history {
     text-align: left;
     margin-right: 17%;
@@ -98,7 +105,7 @@ a:active {
 }
 
 .list {
-
+    margin-left: 4%;
 }
 
 .prehistoric {
