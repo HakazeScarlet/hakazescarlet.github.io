@@ -130,7 +130,7 @@ a:active {
     margin-bottom: 2%;
 }
 
-.post-classical {
+.modern {
     background-image: url(images/post-classical.jpeg);
     width: 200px;
     height: 125px;
@@ -138,7 +138,7 @@ a:active {
     margin-bottom: 2%;
 }
 
-.modern {
+.post-classical {
     background-image: url(images/modern.jpg);
     width: 200px;
     height: 125px;
